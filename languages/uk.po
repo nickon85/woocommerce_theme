@@ -1,0 +1,707 @@
+# Copyright (C) 2020 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: _s 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/_s\n"
+"POT-Creation-Date: 2024-10-09 17:05+0300\n"
+"PO-Revision-Date: 2024-10-09 17:06+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk_UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+"X-Domain: _s\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr_e;esc_attr__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: _page-wishlist.php:17
+msgid "Wishlist is empty"
+msgstr "Список обраного пустий"
+
+#: footer.php:11
+msgid "Information"
+msgstr "Інформація"
+
+#: footer.php:25
+msgid "Our address"
+msgstr "Наша адреса"
+
+#: footer.php:35
+msgid "Contacts"
+msgstr "Контакти"
+
+#: footer.php:51
+msgid "Follow us"
+msgstr "Підписуйтесь на нас"
+
+#: front-page.php:57
+msgid "Categories"
+msgstr "Категорії"
+
+#: front-page.php:123
+msgid "Featured products"
+msgstr "Рекомендовані товари"
+
+#: front-page.php:138
+msgid "New products"
+msgstr "Нові товари"
+
+#: functions.php:31
+msgid "Header menu"
+msgstr "Верхнє меню"
+
+#: functions.php:32
+msgid "Footer menu"
+msgstr "Нижнє меню"
+
+#: functions.php:59 inc/wishlist.php:45
+msgid "Error while adding to Wishlist"
+msgstr "Помилка при додаванні в Обране"
+
+#: functions.php:60
+msgid "Wait for the operation complete"
+msgstr "Дочекайтесь завершення операції"
+
+#: functions.php:61
+msgid "The page will be reloaded"
+msgstr "Сторінку буде оновлено"
+
+#: functions.php:62 inc/wishlist.php:102
+msgid "The product has been removed from wishlist"
+msgstr "Товар було видалено зі списку обраного"
+
+#: functions.php:63 inc/wishlist.php:40 inc/wishlist.php:111
+msgid "The product has been added to wishlist"
+msgstr "Товар доданий до списку обраного"
+
+#: functions.php:64
+msgid "Please register or login"
+msgstr "Будь ласка зареєструйтесь або увійдіть"
+
+#: header.php:185 woocommerce/cart/mini-cart.php:117
+msgid "Cart"
+msgstr "Кошик"
+
+#: inc/custom_post_types.php:13 inc/custom_post_types.php:15
+msgid "New slide"
+msgstr "Новий слайд"
+
+#: inc/custom_post_types.php:14
+msgid "Edit"
+msgstr "Редагувати"
+
+#: inc/custom_post_types.php:16
+msgid "View"
+msgstr "Переглянути"
+
+#: inc/custom_post_types.php:17 inc/custom_post_types.php:18
+#: inc/custom_post_types.php:20
+msgid "Slider"
+msgstr "Слайдер"
+
+#: inc/custom_post_types.php:19
+msgid "Add new slide"
+msgstr "Додати новий слайд"
+
+#: inc/custom_post_types.php:21
+msgid "All slides"
+msgstr "Усі слайди"
+
+#: inc/customizer.php:5
+msgid "Contacts settings"
+msgstr "Налаштування контактів"
+
+#: inc/customizer.php:12
+msgid "Phone 1"
+msgstr "Телефон 1"
+
+#: inc/customizer.php:19
+msgid "Phone 2"
+msgstr "Телефон 2"
+
+#: inc/customizer.php:26
+msgid "Address"
+msgstr "Адреса"
+
+#: inc/customizer.php:33
+msgid "Working hours"
+msgstr "Робочі години"
+
+#: inc/customizer.php:40
+msgid "Youtube link"
+msgstr "Посилання на Youtube "
+
+#: inc/customizer.php:47
+msgid "Facebook link"
+msgstr "Посилання на Facebook "
+
+#: inc/customizer.php:54
+msgid "Instagram link"
+msgstr "Посилання в Instagram "
+
+#: inc/widgets.php:5
+msgid "Shop Sidebar"
+msgstr "Бокова панель"
+
+#: inc/widgets.php:7
+msgid "Add widgets here to appear in your sidebar."
+msgstr "Додайте віджети сюди, щоб показати в боковій панелі"
+
+#: inc/wishlist.php:66
+msgid "DB Error"
+msgstr ""
+
+#: inc/wishlist.php:73
+msgid "Security error 9"
+msgstr ""
+
+#: inc/wishlist.php:78
+msgid "Security error 3"
+msgstr ""
+
+#: inc/wishlist.php:83
+msgid "Product error 7"
+msgstr ""
+
+#: inc/wishlist.php:90
+msgid "Product error 1"
+msgstr ""
+
+#: inc/woocommerce-hooks.php:28
+#, php-format
+msgid "Rated %s out of 5"
+msgstr "Оцінено %s з 5"
+
+#: inc/woocommerce-hooks.php:38 inc/woocommerce-hooks.php:58
+#: inc/woocommerce-hooks.php:142
+msgid "Add to Cart"
+msgstr "У кошик"
+
+#: inc/woocommerce-hooks.php:53
+msgid "Select options"
+msgstr "Обрати параметри"
+
+#: inc/woocommerce-hooks.php:55
+msgid "View products"
+msgstr "Переглянути товари"
+
+#: inc/woocommerce-hooks.php:116
+msgid "Home"
+msgstr "Головна"
+
+#: index.php:7 page-cart.php:6 page-checkout.php:6 page-my-account.php:6
+#: page.php:7
+msgid "No posts"
+msgstr "Немає записів"
+
+#: woocommerce/cart/cart-empty.php:37
+msgid "Return to shop"
+msgstr "Повернутися до магазину"
+
+#: woocommerce/cart/cart-shipping.php:50
+msgid "Shipping costs are calculated during checkout."
+msgstr "Вартість доставки розраховується під час оформлення замовлення."
+
+#: woocommerce/cart/cart-shipping.php:52
+msgid "Enter your address to view shipping options."
+msgstr "Введіть свою адресу, щоб переглянути варіанти доставки."
+
+#: woocommerce/cart/cart-shipping.php:55
+msgid ""
+"There are no shipping options available. Please ensure that your address has "
+"been entered correctly, or contact us if you need any help."
+msgstr ""
+"Варіантів доставки немає. Переконайтеся, що вашу адресу введено правильно, "
+"або зв’яжіться з нами, якщо вам потрібна допомога."
+
+#: woocommerce/cart/cart-shipping.php:69
+#, php-format
+msgid "No shipping options were found for %s."
+msgstr "Не знайдено варіантів доставки для %s."
+
+#: woocommerce/cart/cart-shipping.php:73
+msgid "Enter a different address"
+msgstr "Введіть іншу адресу"
+
+#: woocommerce/cart/cart-totals.php:25
+msgid "Cart totals"
+msgstr "Сума кошика"
+
+#: woocommerce/cart/cart-totals.php:31 woocommerce/cart/cart-totals.php:32
+#: woocommerce/cart/cart.php:41 woocommerce/cart/cart.php:129
+#: woocommerce/checkout/review-order.php:24
+#: woocommerce/checkout/review-order.php:56
+msgid "Subtotal"
+msgstr "Підсумок"
+
+#: woocommerce/cart/cart-totals.php:53 woocommerce/cart/cart-totals.php:54
+msgid "Shipping"
+msgstr "Доставка"
+
+#: woocommerce/cart/cart-totals.php:73
+#, php-format
+msgid "(estimated for %s)"
+msgstr "(приблизно %s)"
+
+#: woocommerce/cart/cart-totals.php:99 woocommerce/cart/cart-totals.php:100
+#: woocommerce/checkout/review-order.php:103
+#: woocommerce/order/order-details.php:58
+msgid "Total"
+msgstr "Всього"
+
+#: woocommerce/cart/cart.php:37
+msgid "Photo"
+msgstr "Фото"
+
+#: woocommerce/cart/cart.php:38 woocommerce/cart/cart.php:70
+#: woocommerce/checkout/review-order.php:23
+#: woocommerce/order/order-details.php:57
+msgid "Product"
+msgstr "Товар"
+
+#: woocommerce/cart/cart.php:39 woocommerce/cart/cart.php:95
+msgid "Price"
+msgstr "Ціна"
+
+#: woocommerce/cart/cart.php:40 woocommerce/cart/cart.php:102
+#: woocommerce/global/quantity-input.php:24
+msgid "Quantity"
+msgstr "Кількість"
+
+#: woocommerce/cart/cart.php:90
+msgid "Available on backorder"
+msgstr "Доступний після замовлення"
+
+#: woocommerce/cart/cart.php:143 woocommerce/cart/mini-cart.php:80
+#, php-format
+msgid "Remove %s from cart"
+msgstr "Видалити %s із кошика"
+
+#: woocommerce/cart/cart.php:166
+msgid "Have a Coupon?"
+msgstr "Є купон?"
+
+#: woocommerce/cart/cart.php:170 woocommerce/checkout/form-coupon.php:34
+msgid "Coupon:"
+msgstr "Купон"
+
+#: woocommerce/cart/cart.php:173 woocommerce/checkout/form-coupon.php:35
+msgid "Coupon code"
+msgstr "Код купона"
+
+#: woocommerce/cart/cart.php:177 woocommerce/checkout/form-coupon.php:36
+msgid "Apply coupon"
+msgstr "Застосувати купон"
+
+#: woocommerce/cart/cart.php:187
+msgid "Update cart"
+msgstr "Оновити кошик"
+
+#: woocommerce/cart/cross-sells.php:24
+msgid "You may be interested in&hellip;"
+msgstr "Вас може зацікавити&hellip;"
+
+#: woocommerce/cart/mini-cart.php:85
+#, php-format
+msgid "&ldquo;%s&rdquo; has been removed from your cart"
+msgstr "&ldquo;%s&rdquo; було видалено з вашого кошика"
+
+#: woocommerce/cart/mini-cart.php:120
+msgid "Checkout"
+msgstr "Оплата"
+
+#: woocommerce/cart/mini-cart.php:129
+msgid "The cart is empty"
+msgstr "Кошик пустий"
+
+#: woocommerce/cart/proceed-to-checkout-button.php:27
+msgid "Proceed to checkout"
+msgstr "Перейти до оформлення"
+
+#: woocommerce/checkout/form-billing.php:24
+msgid "Billing &amp; Shipping"
+msgstr "Оплата &amp; Доставка"
+
+#: woocommerce/checkout/form-billing.php:28
+msgid "Billing details"
+msgstr "Платіжні реквізити"
+
+#: woocommerce/checkout/form-billing.php:53
+msgid "Create an account?"
+msgstr "Створити акаунт?"
+
+#: woocommerce/checkout/form-checkout.php:12
+msgid "You must be logged in to checkout."
+msgstr "Ви повинні увійти в систему для оплати."
+
+#: woocommerce/checkout/form-checkout.php:44
+msgid "Your order"
+msgstr "Ваше замовлення"
+
+#: woocommerce/checkout/form-coupon.php:26
+msgid "Have a coupon?"
+msgstr "Є купон?"
+
+#: woocommerce/checkout/form-coupon.php:26
+msgid "Click here to enter your code"
+msgstr "Натисніть тут, щоб ввести свій код"
+
+#: woocommerce/checkout/form-coupon.php:31
+msgid "If you have a coupon code, please apply it below."
+msgstr "Якщо у вас є код купона, застосуйте його нижче."
+
+#: woocommerce/checkout/form-shipping.php:26
+msgid "Ship to a different address?"
+msgstr "Надіслати на іншу адресу?"
+
+#: woocommerce/checkout/form-shipping.php:57
+msgid "Additional information"
+msgstr "Додаткова інформація"
+
+#: woocommerce/checkout/payment.php:26
+msgid "Payment options"
+msgstr "Варіанти оплати"
+
+#: woocommerce/checkout/payment.php:35
+msgid ""
+"Sorry, it seems that there are no available payment methods. Please contact "
+"us if you require assistance or wish to make alternate arrangements."
+msgstr ""
+"На жаль, здається, що немає доступних способів оплати. Будь ласка, "
+"зв’яжіться з нами, якщо вам потрібна допомога або ви хочете домовитися про "
+"інші способи."
+
+#: woocommerce/checkout/payment.php:35
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+"Будь ласка, заповніть свої дані вище, щоб побачити доступні способи оплати."
+
+#: woocommerce/checkout/payment.php:45
+#, php-format
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the %1$sUpdate Totals%2$s button before placing your order. "
+"You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+"Оскільки ваш браузер не підтримує JavaScript або його вимкнено, будь ласка, "
+"переконайтеся, що ви натиснули кнопку %1$sОновити підсумки%2$s перед "
+"розміщенням замовлення. Якщо ви цього не зробите, з вас може бути стягнуто "
+"більше, ніж зазначено вище."
+
+#: woocommerce/checkout/payment.php:47
+msgid "Update totals"
+msgstr "Оновити підсумки"
+
+#: woocommerce/checkout/thankyou.php:36
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction. Please attempt your purchase again."
+msgstr ""
+"На жаль, ваше замовлення не може бути оброблено, оскільки вихідний банк/"
+"продавець відхилив вашу трансакцію. Спробуйте ще раз зробити покупку."
+
+#: woocommerce/checkout/thankyou.php:39
+msgid "Pay"
+msgstr "Оплатити"
+
+#: woocommerce/checkout/thankyou.php:41
+msgid "My account"
+msgstr "Обліковий запис"
+
+#: woocommerce/checkout/thankyou.php:52
+msgid "Order number:"
+msgstr "Номер замовлення:"
+
+#: woocommerce/checkout/thankyou.php:57
+msgid "Date:"
+msgstr "Дата:"
+
+#: woocommerce/checkout/thankyou.php:63
+msgid "Email:"
+msgstr "Електронна пошта:"
+
+#: woocommerce/checkout/thankyou.php:69
+msgid "Total:"
+msgstr "Всього:"
+
+#: woocommerce/checkout/thankyou.php:75
+msgid "Payment method:"
+msgstr "Спосіб оплати:"
+
+#: woocommerce/content-product.php:22
+msgid "Wishlist"
+msgstr "Список обраного"
+
+#: woocommerce/global/quantity-input.php:24
+#, php-format
+msgid "%s quantity"
+msgstr "%s кількість"
+
+#: woocommerce/global/quantity-input.php:47
+msgid "Product quantity"
+msgstr "Кількість товарів"
+
+#: woocommerce/loop/orderby.php:24
+msgid "Shop order"
+msgstr "Shop order"
+
+#: woocommerce/loop/pagination.php:33
+msgid "Product Pagination"
+msgstr "Пагінація товарів"
+
+#: woocommerce/loop/sale-flash.php:38
+msgid "Hit"
+msgstr "Хіт"
+
+#: woocommerce/myaccount/form-edit-account.php:27
+msgid "First name"
+msgstr "Ім'я"
+
+#: woocommerce/myaccount/form-edit-account.php:31
+msgid "Last name"
+msgstr "Фамілія"
+
+#: woocommerce/myaccount/form-edit-account.php:37
+msgid "Display name"
+msgstr "Відображуване ім'я"
+
+#: woocommerce/myaccount/form-edit-account.php:38
+msgid ""
+"This will be how your name will be displayed in the account section and in "
+"reviews"
+msgstr ""
+"Так ваше ім’я відображатиметься в розділі облікового запису та відгуках"
+
+#: woocommerce/myaccount/form-edit-account.php:43
+#: woocommerce/myaccount/form-login.php:87
+msgid "Email address"
+msgstr "Адреса електронної пошти"
+
+#: woocommerce/myaccount/form-edit-account.php:57
+msgid "Password change"
+msgstr "Зміна пароля"
+
+#: woocommerce/myaccount/form-edit-account.php:60
+msgid "Current password (leave blank to leave unchanged)"
+msgstr "Поточний пароль (залиште порожнім, щоб не змінювати)"
+
+#: woocommerce/myaccount/form-edit-account.php:64
+msgid "New password (leave blank to leave unchanged)"
+msgstr "Новий пароль (залиште поле порожнім, щоб не змінювати)"
+
+#: woocommerce/myaccount/form-edit-account.php:68
+msgid "Confirm new password"
+msgstr "Підтвердьте новий пароль"
+
+#: woocommerce/myaccount/form-edit-account.php:85
+msgid "Save changes"
+msgstr "Зберегти зміни"
+
+#: woocommerce/myaccount/form-edit-address.php:20
+#: woocommerce/order/order-details-customer.php:31
+msgid "Billing address"
+msgstr "Платіжна адреса"
+
+#: woocommerce/myaccount/form-edit-address.php:20
+#: woocommerce/order/order-details-customer.php:61
+msgid "Shipping address"
+msgstr "Адреса доставки"
+
+#: woocommerce/myaccount/form-edit-address.php:48
+msgid "Save address"
+msgstr "Зберегти адресу"
+
+#: woocommerce/myaccount/form-login.php:17
+msgid "Login"
+msgstr "Логін"
+
+#: woocommerce/myaccount/form-login.php:23
+msgid "Username or email address"
+msgstr "Ім'я користувача або адреса електронної пошти"
+
+#: woocommerce/myaccount/form-login.php:25
+#: woocommerce/myaccount/form-login.php:36
+#: woocommerce/myaccount/form-login.php:80
+#: woocommerce/myaccount/form-login.php:87
+#: woocommerce/myaccount/form-login.php:94
+msgid "Required"
+msgstr "Обов'язково"
+
+#: woocommerce/myaccount/form-login.php:34
+#: woocommerce/myaccount/form-login.php:94
+msgid "Password"
+msgstr "Пароль"
+
+#: woocommerce/myaccount/form-login.php:48
+msgid "Remember me"
+msgstr "Запам'ятати мене"
+
+#: woocommerce/myaccount/form-login.php:56
+msgid "Log in"
+msgstr "Авторизуватися"
+
+#: woocommerce/myaccount/form-login.php:59
+msgid "Lost your password?"
+msgstr "Забули пароль?"
+
+#: woocommerce/myaccount/form-login.php:72
+#: woocommerce/myaccount/form-login.php:108
+msgid "Register"
+msgstr "Зареєструватися"
+
+#: woocommerce/myaccount/form-login.php:80
+msgid "Username"
+msgstr "Ім'я користувача"
+
+#: woocommerce/myaccount/form-login.php:100
+msgid "A link to set a new password will be sent to your email address."
+msgstr ""
+"На вашу електронну адресу буде надіслано посилання для встановлення нового "
+"пароля."
+
+#: woocommerce/myaccount/orders.php:40 woocommerce/myaccount/orders.php:63
+#, php-format
+msgid "View order number %s"
+msgstr "Переглянути номер замовлення %s"
+
+#: woocommerce/myaccount/orders.php:89
+msgid "Previous"
+msgstr "Назад"
+
+#: woocommerce/myaccount/orders.php:93
+msgid "Next"
+msgstr "Далі"
+
+#: woocommerce/myaccount/orders.php:100
+msgid "No order has been made yet."
+msgstr "Замовлення ще не зроблено."
+
+#: woocommerce/myaccount/orders.php:100
+msgid "Browse products"
+msgstr "Огляд товарів"
+
+#: woocommerce/order/order-details-customer.php:34
+#: woocommerce/order/order-details-customer.php:63
+msgid "N/A"
+msgstr "N/A"
+
+#: woocommerce/order/order-details.php:50
+msgid "Order details"
+msgstr "Деталі замовлення"
+
+#: woocommerce/order/order-details.php:99
+msgid "Note:"
+msgstr "Примітка:"
+
+#: woocommerce/single-product-reviews.php:37
+msgid "Reviews"
+msgstr "Відгуки"
+
+#: woocommerce/single-product-reviews.php:64
+msgid "There are no reviews yet."
+msgstr "Ще немає відгуків."
+
+#: woocommerce/single-product-reviews.php:75
+msgid "Add a review"
+msgstr "Додайте відгук"
+
+#: woocommerce/single-product-reviews.php:75
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr "Будьте першим, хто залишив відгук про &ldquo;%s&rdquo;"
+
+#: woocommerce/single-product-reviews.php:77
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Залиште відповідь %s"
+
+#: woocommerce/single-product-reviews.php:81
+msgid "Submit"
+msgstr "Надіслати"
+
+#: woocommerce/single-product-reviews.php:89
+msgid "Name"
+msgstr "Ім'я"
+
+#: woocommerce/single-product-reviews.php:95
+msgid "Email"
+msgstr "Електронна пошта"
+
+#: woocommerce/single-product-reviews.php:120
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr "Щоб опублікувати відгук, ви повинні авторизуватися."
+
+#: woocommerce/single-product-reviews.php:124
+msgid "Your rating"
+msgstr "Ваша оцінка"
+
+#: woocommerce/single-product-reviews.php:125
+msgid "Rate&hellip;"
+msgstr "Оцінити&hellip;"
+
+#: woocommerce/single-product-reviews.php:126
+msgid "Perfect"
+msgstr "Ідеально"
+
+#: woocommerce/single-product-reviews.php:127
+msgid "Good"
+msgstr "Добре"
+
+#: woocommerce/single-product-reviews.php:128
+msgid "Average"
+msgstr "Посередньо"
+
+#: woocommerce/single-product-reviews.php:129
+msgid "Not that bad"
+msgstr "Не так погано"
+
+#: woocommerce/single-product-reviews.php:130
+msgid "Very poor"
+msgstr "Дуже слабко"
+
+#: woocommerce/single-product-reviews.php:134
+msgid "Your review"
+msgstr "Ваш відгук"
+
+#: woocommerce/single-product-reviews.php:143
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+"Лише авторизовані клієнти, які придбали цей продукт, можуть залишити відгук."
+
+#: woocommerce/single-product/add-to-cart/grouped.php:69
+msgid "Buy one of this item"
+msgstr "Купіть один із цих товарів"
+
+#: woocommerce/single-product/add-to-cart/variable.php:35
+msgid "This product is currently out of stock and unavailable."
+msgstr "Цей товар наразі відсутній і недоступний."
+
+#: woocommerce/single-product/add-to-cart/variable.php:62
+msgid "Clear"
+msgstr "Очистити"
+
+#: woocommerce/single-product/add-to-cart/variation.php:22
+msgid ""
+"Sorry, this product is unavailable. Please choose a different combination."
+msgstr "Вибачте, цей товар недоступний. Виберіть інші параметри."
+
+#: woocommerce/single-product/product-attributes.php:27
+msgid "Product Details"
+msgstr "Деталі товару"
+
+#: woocommerce/single-product/related.php:27
+msgid "Related products"
+msgstr "Супутні товари"
+
+#: woocommerce/single-product/up-sells.php:26
+msgid "You may also like&hellip;"
+msgstr "Вам також може сподобатися &hellip;"
+
+#~ msgid "Sale"
+#~ msgstr "Розпродаж"

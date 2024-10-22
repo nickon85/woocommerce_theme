@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+/*
+Theme Name: nickon-start
+Author: NicKon
+Description: NicKon Start Theme
+Requires at least: 6.4
+Tested up to: 6.5
+Requires PHP: 7.0
+Version: 1.1
+Text Domain: nickon-start
+*/
+
+
+/* GENERAL */
+
+h1, h2, h3, h4, h5, h6 {
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
+
+
+/* HEADER */
+
+
+
+/* MAIN */
+
+#primary {
+    margin-block-start: 0;
+}
+
+#main {
+    padding: 0 1.5rem;
+}
+
+
+/* VARIABLES */
